@@ -1,0 +1,6 @@
+source_id,captured_at,class,status,raw_text,notes
+SRC-001,2026-08-01T10:00:00Z,DIRECT_REPORT,ACTIVE,The band saw fence drifts after about twenty minutes of ripping. Tightening the rear lock knob stops it.,Observed during maple rip.
+SRC-002,2026-08-03T16:20:00Z,DIRECT_REPORT,ACTIVE,Do not leave the planer on the mobile base when thicknessing boards over eight inches. The stand walks.,Safety note from Saturday open shop.
+SRC-003,2026-08-08T12:11:00Z,HYPOTHESIS,DRAFT,Fence drift is probably heat plus a loose cam not a bent rail.,Not confirmed. Do not promote yet.
+SRC-004,2026-08-12T09:04:00Z,DESIGN_PRINCIPLE,ACTIVE,One fact one home. If a tool note becomes policy it moves to rules. If it stays an incident it stays a source.,Seed principle for the example.
+SRC-005,2026-08-18T18:40:00Z,CORRECTION,ACTIVE,The planer walking is the base casters not the machine feet. Previous note over-blamed the planer.,Correction of SRC-002 interpretation.

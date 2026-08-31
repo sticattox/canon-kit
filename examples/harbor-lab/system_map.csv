@@ -1,0 +1,7 @@
+domain,purpose,canonical_home
+WORKSHOP,Physical shop operations and tool condition.,rules.csv
+PROJECTS,Builds in progress that are not shop policy.,sources.csv
+KNOWLEDGE,Reusable ideas about the shop.,concepts.csv
+INTAKE,Messy notes before they become canon.,sources.csv
+INDEX,Lookup by purpose.,file_index.csv
+ROUTER,Which owner to open for a task.,router.md

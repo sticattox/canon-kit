@@ -1,0 +1,7 @@
+entry_id,purpose,owner_file,keywords
+IDX-001,Reusable shop ideas and definitions,concepts.csv,"concept, definition, cluster"
+IDX-002,Standing shop rules,rules.csv,"rule, safety, verification"
+IDX-003,Raw incoming notes,sources.csv,"note, ramble, evidence"
+IDX-004,What got filed and whether it verified,intake_log.csv,"intake, route, verified"
+IDX-005,Which file to open,router.md,"router, recovery, lookup"
+IDX-006,Top-level domains,system_map.csv,"map, domain, home"

@@ -1,0 +1,6 @@
+log_id,captured_at,source_id,routed_to,owner_id,write_status,verified_at,summary
+LOG-001,2026-08-01T10:05:00Z,SRC-001,concepts.csv,C-001,VERIFIED,2026-08-01T10:06:00Z,Filed fence drift as a concept.
+LOG-002,2026-08-03T16:25:00Z,SRC-002,rules.csv,RULE-003,VERIFIED,2026-08-03T16:26:00Z,Promoted planer-base incident to a safety rule.
+LOG-003,2026-08-08T12:15:00Z,SRC-003,concepts.csv,C-004,VERIFIED,2026-08-08T12:16:00Z,Stored heat-cam idea as DRAFT hypothesis.
+LOG-004,2026-08-12T09:10:00Z,SRC-004,concepts.csv,C-003,VERIFIED,2026-08-12T09:11:00Z,Filed one-home principle.
+LOG-005,2026-08-18T18:45:00Z,SRC-005,concepts.csv,C-002,VERIFIED,2026-08-18T18:46:00Z,Corrected mobile-base cause. Did not duplicate SRC-002.

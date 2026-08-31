@@ -1,0 +1,6 @@
+concept_id,name,definition,cluster,status,confidence,source_ids,keywords,notes
+C-001,Fence drift,A rip fence that slowly loses registration during a long cut.,tools,ACTIVE,HIGH,SRC-001,"bandsaw, fence, registration",Symptom. Cause still hypothesized in SRC-003.
+C-002,Mobile-base walk,A machine on casters that travels under load.,safety,ACTIVE,HIGH,"SRC-002, SRC-005","planer, casters, movement",Cause corrected by SRC-005.
+C-003,One-home filing,Durable facts live in one editable table. Links are allowed. Second editors are not.,architecture,ACTIVE,HIGH,SRC-004,"canon, routing, index",Example of a design principle stored as a concept.
+C-004,Heat-cam hypothesis,Fence drift caused by heat plus a loose cam rather than a bent rail.,tools,DRAFT,LOW,SRC-003,"bandsaw, cam, heat",Do not treat as shop policy.
+C-005,Incident versus policy,An event stays in sources until it earns a rule or a reusable concept.,architecture,ACTIVE,HIGH,SRC-004,"intake, promotion",Promotion requires evidence plus an explicit status change.

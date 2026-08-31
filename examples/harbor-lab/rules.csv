@@ -1,0 +1,6 @@
+rule_id,rule,class,priority,trigger,action,verification,status,source_ids,notes
+RULE-001,Provable write,hard procedural,CRITICAL,claiming a save or route,"Only claim COMPLETED after the file write returns. Only claim VERIFIED after read-back matches.",read-back of the owner row,ACTIVE,SRC-004,
+RULE-002,One fact one home,data integrity,CRITICAL,new durable fact,Write it to the declared owner. Link from other tables. Do not mint a second editable copy.,file_index plus duplicate-ID scan,ACTIVE,SRC-004,
+RULE-003,Do not lock the planer on a walking base under wide stock,safety,HIGH,thicknessing boards over eight inches,Park the planer off the mobile base or lock and chock the casters.,visual check before the cut,ACTIVE,"SRC-002, SRC-005",
+RULE-004,Hypothesis stays labeled,epistemic integrity,HIGH,unconfirmed cause,Keep status DRAFT and class HYPOTHESIS until evidence lands.,status field on the concept or source,ACTIVE,SRC-003,
+RULE-005,Retrieve the owner not the pile,workflow,HIGH,any shop question,Open router.md then one owner file.,router mentions exactly one owner for the task,ACTIVE,SRC-004,
